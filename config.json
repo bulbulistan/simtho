@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "http://www.bulbul.sk/simtho/tfdata/tensors.tsv",
-      "metadataPath": "http://www.bulbul.sk/simtho/tfdata/tokens.tsv"
+      "tensorPath": "https://github.com/bulbulistan/simtho/blob/master/tensors.tsv",
+      "metadataPath": "https://github.com/bulbulistan/simtho/blob/master/tokens.tsv"
     }
   ]
 }
