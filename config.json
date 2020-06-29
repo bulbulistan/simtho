@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Simtho TF",
+      "tensorName": "Simtho TF word embeddings (10k)",
       "tensorShape": [
         1000,
         50
