@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Simtho TF",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "http://www.bulbul.sk/simtho/tfdata/tensors.tsv",
+      "metadataPath": "http://www.bulbul.sk/simtho/tfdata/tokens.tsv"
+    }
+  ]
+}
